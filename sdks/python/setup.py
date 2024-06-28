@@ -288,7 +288,7 @@ if __name__ == '__main__':
             'scikit-learn>=0.20.0',
             'sqlalchemy>=1.3,<2.0',
             'psycopg2-binary>=2.8.5,<3.0.0',
-            'testcontainers[mysql]>=3.0.3,<4.0.0',
+            'testcontainers[mysql]>=4.7.0,<5.0.0',
             'cryptography>=36.0.0',
             'hypothesis>5.0.0,<=7.0.0',
           ],
