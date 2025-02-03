@@ -54,7 +54,7 @@ require (
 	go.mongodb.org/mongo-driver v1.11.1
 	golang.org/x/exp v0.0.0-20230206171751-46f607a40771
 	golang.org/x/net v0.5.0
-	golang.org/x/oauth2 v0.0.0-20221014153046-6fdb5e3db783
+	golang.org/x/oauth2 v0.25.0
 	golang.org/x/sync v0.1.0
 	golang.org/x/sys v0.4.0
 	golang.org/x/text v0.6.0
@@ -69,8 +69,7 @@ require (
 
 require (
 	cloud.google.com/go v0.107.0 // indirect
-	cloud.google.com/go/compute v1.14.0 // indirect
-	cloud.google.com/go/compute/metadata v0.2.3 // indirect
+	cloud.google.com/go/compute/metadata v0.3.0 // indirect
 	cloud.google.com/go/iam v0.8.0 // indirect
 	cloud.google.com/go/longrunning v0.3.0 // indirect
 	github.com/Azure/go-ansiterm v0.0.0-20210617225240-d185dfc1b5a1 // indirect
